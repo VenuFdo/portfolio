@@ -52,7 +52,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://nbviewer.org/github/GreyNFz/React-Portfolio/blob/main/public/resume.pdf",
+      href: "https://nbviewer.org/github/VenuFdo/portfolio/blob/master/public/resume.pdf",
       style: "rounded-br-md",
       
     },
